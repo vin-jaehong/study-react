@@ -7,10 +7,11 @@ import reportWebVitals from "./reportWebVitals";
 // import Clock from "./chapter-04/Clock";
 // import CommentList from "./chapter-05/CommentList";
 // import Accommodate from "./chapter-07/Accommodate";
-import ConfirmButton from "./chapter-08/ConfirmButton";
+// import ConfirmButton from "./chapter-08/ConfirmButton";
+import LandingPage from "./chapter-09/LandingPage";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<ConfirmButton />);
+root.render(<LandingPage />);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
