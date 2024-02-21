@@ -9,10 +9,11 @@ import reportWebVitals from "./reportWebVitals";
 // import Accommodate from "./chapter-07/Accommodate";
 // import ConfirmButton from "./chapter-08/ConfirmButton";
 // import LandingPage from "./chapter-09/LandingPage";
-import AttendanceBook from "./chapter-10/AttendanceBook";
+// import AttendanceBook from "./chapter-10/AttendanceBook";
+import SignUp from "./chapter-11/SignUp";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<AttendanceBook />);
+root.render(<SignUp />);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
