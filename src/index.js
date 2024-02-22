@@ -11,10 +11,11 @@ import reportWebVitals from "./reportWebVitals";
 // import LandingPage from "./chapter-09/LandingPage";
 // import AttendanceBook from "./chapter-10/AttendanceBook";
 // import SignUp from "./chapter-11/SignUp";
-import ProfileCard from "./chapter-13/ProfileCard";
+// import ProfileCard from "./chapter-13/ProfileCard";
+import DarkOrLight from "./chapter-14/DarkOrLight";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<ProfileCard />);
+root.render(<DarkOrLight />);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
