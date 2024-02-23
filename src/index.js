@@ -12,7 +12,7 @@ import reportWebVitals from "./reportWebVitals";
 // import AttendanceBook from "./chapter-10/AttendanceBook";
 // import SignUp from "./chapter-11/SignUp";
 // import ProfileCard from "./chapter-13/ProfileCard";
-import DarkOrLight from "./chapter-14/DarkOrLight";
+// import DarkOrLight from "./chapter-14/DarkOrLight";
 import Blocks from "./chapter-15/Blocks";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
